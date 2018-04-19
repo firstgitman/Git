@@ -1,0 +1,17 @@
+{
+  "name": "git",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Cemen <firstman@i.ua>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
